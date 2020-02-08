@@ -1,0 +1,11 @@
+H:\APITest\APITest\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+H:\APITest\APITest\Data\bin\Debug\netcoreapp2.2\Data.dll
+H:\APITest\APITest\Data\bin\Debug\netcoreapp2.2\Data.pdb
+H:\APITest\APITest\Data\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+H:\APITest\APITest\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+H:\APITest\APITest\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+H:\APITest\APITest\Data\obj\Debug\netcoreapp2.2\Data.dll
+H:\APITest\APITest\Data\obj\Debug\netcoreapp2.2\Data.pdb
+H:\APITest\APITest\Data\bin\Debug\netcoreapp2.2\Data.runtimeconfig.json
+H:\APITest\APITest\Data\bin\Debug\netcoreapp2.2\Data.runtimeconfig.dev.json
+H:\APITest\APITest\Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
